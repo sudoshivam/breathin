@@ -9,6 +9,6 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 - Create grow and shrink animations
 - Add JavaScript to create the breath animation effect
 
-<a href="breathin.netlify.app>Try it!</a>
+<a href="breathin.netlify.app">Try it!</a>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fa78e6cc-9f7a-479b-be25-45896646e042/deploy-status)](https://app.netlify.com/sites/breathin/deploys)
